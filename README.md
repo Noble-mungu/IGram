@@ -1,5 +1,7 @@
 Margatsni
 
+Deployed link
+https://margatsn2.herokuapp.com/
 
 By Noble Mungu
 Description
